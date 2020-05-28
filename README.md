@@ -7,6 +7,8 @@ gem install ruben-gem
 
 ## Usage
 ```ruby
+require 'ruben-gem'
+
 Ruben.fala_po # => makes Ruben talk
 Ruben.ri # => makes Ruben laugh
 Ruben.consulta # => makes Ruben consult Rafa 
