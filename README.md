@@ -14,7 +14,7 @@ Ruben.ri # => makes Ruben laugh
 Ruben.consulta # => makes Ruben consult Rafa 
 ```
 
-## In the words of a famous philisopher...
+## In the words of a famous philosopher...
 "A cópia é o primeiro passo para a criação"
 
 Inspired by the roberto-barros gem made by the genius @davisjr2000
